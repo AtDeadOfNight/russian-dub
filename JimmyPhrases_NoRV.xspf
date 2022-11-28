@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Плейлист</title>
+	<trackList>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/M1near.mp3</location>
+			<duration>3816</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/M2near.mp3</location>
+			<duration>3768</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/M3near.mp3</location>
+			<duration>3336</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/M3near.mp3</location>
+			<duration>3336</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/M4near.mp3</location>
+			<duration>3072</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/M4near.mp3</location>
+			<duration>3072</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N1near.mp3</location>
+			<duration>4632</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N2near.mp3</location>
+			<duration>4464</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N3near.mp3</location>
+			<duration>4512</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N4near.mp3</location>
+			<duration>4920</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N5near.mp3</location>
+			<duration>4056</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N6near.mp3</location>
+			<duration>4272</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N42near.mp3</location>
+			<duration>5520</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N43near.mp3</location>
+			<duration>4200</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N7near.mp3</location>
+			<duration>4272</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N8near.mp3</location>
+			<duration>4872</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N9near.mp3</location>
+			<duration>3960</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N10near.mp3</location>
+			<duration>4368</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N11near.mp3</location>
+			<duration>3936</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N12near.mp3</location>
+			<duration>4176</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N13near.mp3</location>
+			<duration>4512</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N14near.mp3</location>
+			<duration>4992</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N15near.mp3</location>
+			<duration>4248</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N16near.mp3</location>
+			<duration>5040</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N17near.mp3</location>
+			<duration>4584</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N18near.mp3</location>
+			<duration>3816</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N19near.mp3</location>
+			<duration>5040</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N20near.mp3</location>
+			<duration>4104</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N21near.mp3</location>
+			<duration>5232</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N22near.mp3</location>
+			<duration>4104</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N23near.mp3</location>
+			<duration>4944</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N24near.mp3</location>
+			<duration>5376</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N25near.mp3</location>
+			<duration>6264</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N26near.mp3</location>
+			<duration>3120</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N27near.mp3</location>
+			<duration>4440</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N28near.mp3</location>
+			<duration>4848</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N29near.mp3</location>
+			<duration>6144</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N30near.mp3</location>
+			<duration>4680</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N31near.mp3</location>
+			<duration>3720</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N32near.mp3</location>
+			<duration>5496</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N33near.mp3</location>
+			<duration>5784</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N34near.mp3</location>
+			<duration>4152</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N35near.mp3</location>
+			<duration>3912</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N36near.mp3</location>
+			<duration>4656</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N37near.mp3</location>
+			<duration>4320</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N38near.mp3</location>
+			<duration>4392</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N39near.mp3</location>
+			<duration>4656</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N40near.mp3</location>
+			<duration>4584</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/N41near.mp3</location>
+			<duration>4320</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/JimEndCorridor.mp3</location>
+			<duration>46811</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/JimEndTalk.mp3</location>
+			<duration>99474</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/VityaSchel/Desktop/At%20Dead%20of%20Night%20%D0%9E%D0%97%D0%92%D0%A3%D0%A7%D0%9A%D0%90/en_original/audio/JimEndAppear.mp3</location>
+			<duration>33216</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+		<vlc:item tid="40"/>
+		<vlc:item tid="41"/>
+		<vlc:item tid="42"/>
+		<vlc:item tid="43"/>
+		<vlc:item tid="44"/>
+		<vlc:item tid="45"/>
+		<vlc:item tid="46"/>
+		<vlc:item tid="47"/>
+		<vlc:item tid="48"/>
+		<vlc:item tid="49"/>
+		<vlc:item tid="50"/>
+		<vlc:item tid="51"/>
+	</extension>
+</playlist>
