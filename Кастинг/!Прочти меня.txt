@@ -1,0 +1,191 @@
+Выбери одного персонажа и озвучь все его фразы по порядку, сохрани и отправь результаты.
+Эффекты накладывать не нужно!
+
+Большинство файлов - это просто аудиоряд, но хочется сказать пару слов про видео. Если вы считаете, что ваш перевод/липсинк лучше предложенного, то используйте его! Не составит труда поменять субтитры в игре, а перевод текста в видео мы еще не делали. Главное не забудьте написать об этом.
+
+
+------ Эмми: ------
+[Файл 1]
+Текст на английском (для интонации):
+I jumped, but then it all went dark and I couldn't wake up. I can't wake up anymore. I don't know where I am.
+
+Озвучить:
+Я прыгнула, но потом все потемнело, и я не могла проснуться. Я больше не могу проснуться. Я не знаю где я.
+
+
+[Файл 2]
+Текст на английском (для интонации):
+Jimmy, give it back! That's mine!
+Stop stealing my things!
+
+Озвучить:
+Джимми, отдай! Это моё!
+Хватит красть мои вещи!
+
+
+
+------ Харви: ------
+[Файл 1]
+Текст на английском (для интонации):
+Jimmy?
+I know you can hear me!
+I know you made it up, your little story about that psychiatrist.
+I know where you got it from!
+I knew I'd read it before, it's in your bloody scrap book!
+Come out here!
+Jimmy!
+
+Озвучить:
+Джимми?
+Я знаю ты слышишь меня!
+Я знаю, что ты выдумал свою маленькую историю про психиатра.
+Я знаю, откуда ты это взял!
+Я знал, что читал об этом раньше, в твоих чертовых вырезках из газет!
+Выходи сюда!
+Джимми!
+
+
+[Файл 2]
+Текст на английском (для интонации):
+It was Doctor Bose. He was supposed to help Jimmy, but Jimmy was beyond help.
+
+Озвучить:
+Это был Доктор Боуз. Он должен был помочь Джимми, но Джимми было уже не помочь.
+
+
+
+------ Боуз: ------
+[Файл 1]
+Текст на английском (для интонации):
+Yes, I'm Doctor Bose.
+
+Озвучить:
+Да, я Доктор Боуз.
+
+
+[Файл 2]
+Текст на английском (для интонации):
+Doctor Bose. I'm a clinical psychiatrist.
+
+Озвучить:
+Доктор Боуз. Я клинический психиатр.
+
+
+[Файл 3]
+Текст на английском (для интонации):
+I would never use force like that on a patient Mrs Hall.
+It goes against everything I believe in.
+You have to understand, he's making it all up!
+
+Озвучить:
+Я бы никогда не применил такие меры к пациенту, Миссис Холл.
+Это противоречит всему, во что я верю.
+Вы должны понять, что он все выдумывает!
+
+
+
+------ Роуз: ------
+[Файл 1]
+Текст на английском (для интонации):
+It's just his comedy routine.
+It's his sense of humour!
+I'm sorry if you've been offended...
+Excuse me...
+
+Озвучить:
+Это просто его комедия.
+Это его чувство юмора!
+Извините, если это вас задело...
+Прошу прощения...
+
+
+[Файл 2]
+Текст на английском (для интонации):
+I admitted it all to Jimmy. Jimmy didn't remember Hugo, he'd blocked out the memory. Hugo beat Jimmy from when he was born, for 2 years. I should have stopped it earlier.
+
+Озвучить:
+Я во всем призналась Джимми. Джимми не помнил Хьюго, он будто растворился в его памяти. Хьюго бил Джимми с момента его рождения в течение 2 лет. Я должна была прекратить это раньше.
+
+
+
+------ Джимми: ------
+[Файл 1]
+Текст на английском (для интонации):
+Best show in town and no takers.
+Who needs proper entertainment when you've got 'You Tune' and 'My Face' and whatever.
+Stupid, uncultured...
+Shut up! Just shut up!
+You always do this, they're paying customers.
+They haven't done anything to you.
+Just leave them alone.
+
+Озвучить:
+Лучшее шоу в городе и никого.
+Кому нужно хорошее развлечение, когда есть «You Tune», «My Face» и все такое.
+Глупые, некультурные...
+Заткнись! Просто заткнись!
+Ты всегда так делаешь, клиенты нам платят.
+Они ничего тебе не сделали.
+Просто оставь их в покое.
+
+
+[Файл 2]
+Текст на английском (для интонации):
+Bad eggs need cracking! Whack 'em hard and crack their shell,
+kick 'em down the stairs to Hell!
+You know what you need to do, Jimmy.
+Show them who's boss.
+That's the way to do it!
+
+Озвучить:
+Тухлые яйца нужно разбивать! Расколи их скорлупу,
+столкни их с лестницы в преисподню!
+Ты знаешь, что тебе нужно делать, Джимми.
+Покажи им, кто в доме хозяин.
+Вот так это делается! Хе-хе-хе-хе...
+
+
+[Файл 3]
+Текст на английском (для интонации):
+Talking to the dead, Maya?
+But she failed, didn't she.
+He-he-he-he... Well why don't you come and meet him?
+It's time I introduced you to the family, Maya.
+
+Озвучить:
+Разговариваешь с мёртвыми, Майя?
+Попытка вышла неудачной, не так ли.
+Хе-хе-хе-хе... Так почему бы тебе не пойти и не встретиться с ним?
+Пора представить тебя семье, Майя.
+
+
+
+------ Майя: ------
+[Файл 1]
+Текст на английском (для интонации):
+Yeah, we were supposed to be camping there tonight, but...
+I don't think so, we'll probably just get going.
+I don't think so, we're all just going to bed I think.
+It's OK I'd rather just go to bed. Sorry.
+
+Озвучить:
+Да, мы хотели остановиться на кемпинге тут, но...
+Ааа, нет, не думаю, мы наверное просто уйдем.
+Я так не думаю, мы все просто пойдём ложиться спать, я думаю.
+Я, наверно, лучше просто пойду спать. Извините.
+
+
+[Файл 2]
+Текст на английском (для интонации):
+I saw Rose, she was on fire. What happened?
+
+Озвучить:
+Я видела Роуз, она была в огне. Что случилось?
+
+
+[Файл 3]
+Текст на английском (для интонации):
+I saw Dr Bose tying a rope around his neck. He killed himself. Why?
+
+Озвучить:
+Я видела, как Доктор Боуз затягивал петлю из верёвки вокруг своей шеи. Он убил себя. Почему?
