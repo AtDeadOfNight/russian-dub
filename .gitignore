@@ -1,5 +1,6 @@
 Intro/**.prproj
-**/Adobe Premiere Pro Auto-Save/*
+**/Adobe Premiere Pro Auto-Save
+**/Adobe Premiere Pro Audio Previews
 #*.xspf
 
 # May be copyrighted, please download it yourself
@@ -8,3 +9,5 @@ Tutorial/Original.m4v
 Сохранения
 ~$*.xlsx
 Кастинг*.zip
+
+**/tmp
